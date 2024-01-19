@@ -1,5 +1,5 @@
 function Home(){
-    return<h1> xucrinho</h1>
+    return<h1> delicinha </h1>
 }
 
 export default Home
